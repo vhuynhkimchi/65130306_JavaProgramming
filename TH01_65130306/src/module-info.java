@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TH01_65130306 {
+module Cac_Bai_Thuc_Hanh_65130306 {
 }
